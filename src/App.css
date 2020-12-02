@@ -36,3 +36,33 @@
     transform: rotate(360deg);
   }
 }
+
+
+
+nav{
+display: flex;
+justify-content: space-around;
+align-items: center;
+min-height: 10vh;
+background: darkslateblue;
+}
+
+.nav-links {
+width: 40%;
+display: flex;
+justify-content: space-around;
+align-items: center;
+list-style: none;
+}
+
+h1{
+  color: crimson;
+}
+
+h2{
+  color: crimson;
+}
+
+h3{
+  color: dimgray;
+}
